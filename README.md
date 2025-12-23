@@ -36,13 +36,9 @@ visual-scripting-system/
 
 │   │   │   └── serializer.ts
 
-│   │   │
-
 │   │   ├── App.tsx
 
 │   │   └── main.tsx
-
-│   │
 
 │   ├── package.json
 
@@ -75,12 +71,9 @@ visual-scripting-system/
 
 │   │   │   └── logger.ts
 
-│   │   │
 │   │   ├── templates/
 
 │   │   │   └── nodes.ts
-
-│   │   │
 
 │   │   └── server.ts
 
